@@ -1,0 +1,19 @@
+{
+  "name": "react-tut",
+  "version": "1.0.0",
+  "description": "Learning react.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhavneetSingh7/react-tut.git"
+  },
+  "author": "Bhavneet Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhavneetSingh7/react-tut/issues"
+  },
+  "homepage": "https://github.com/BhavneetSingh7/react-tut#readme"
+}
