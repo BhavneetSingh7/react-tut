@@ -2,9 +2,10 @@
   "name": "react-tut",
   "version": "1.0.0",
   "description": "Learning react.",
-  "main": "app.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/BhavneetSingh7/react-tut/issues"
   },
-  "homepage": "https://github.com/BhavneetSingh7/react-tut#readme"
+  "homepage": "https://github.com/BhavneetSingh7/react-tut#readme",
+  "devDependencies": {
+    "parcel": "^2.10.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
